@@ -1,0 +1,52 @@
+{
+   "checksum": "a844ca1f6af00c03cf8b9664f89095df",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13399196244348145",
+            "date_last_used": "13412887426942220",
+            "guid": "927d5de5-0325-4909-a53a-ea16c5c87011",
+            "id": "6",
+            "name": "Free Programming and Coding Courses Online with Certificate",
+            "type": "url",
+            "url": "https://www.scaler.com/topics/courses/"
+         }, {
+            "date_added": "13410083192840013",
+            "date_last_used": "0",
+            "guid": "03c428e2-633d-49d1-b8e8-073c6b88d119",
+            "id": "7",
+            "name": "Watch Naruto: Shippuden English Sub/Dub online Free on HiAnime.to",
+            "type": "url",
+            "url": "https://hianime.to/watch/naruto-shippuden-355?ep=8093"
+         } ],
+         "date_added": "13415017290250057",
+         "date_last_used": "0",
+         "date_modified": "13410083192840013",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13415017290250057",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13415017290250057",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

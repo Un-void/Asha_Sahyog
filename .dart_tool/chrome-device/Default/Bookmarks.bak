@@ -1,0 +1,62 @@
+{
+   "checksum": "36fd609f97b7e3db968053336cf52fc1",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13399196244348145",
+            "date_last_used": "13412887426942220",
+            "guid": "927d5de5-0325-4909-a53a-ea16c5c87011",
+            "id": "6",
+            "name": "Free Programming and Coding Courses Online with Certificate",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.scaler.com/topics/courses/",
+            "visit_count": 6
+         }, {
+            "date_added": "13410083192840013",
+            "date_last_used": "0",
+            "guid": "03c428e2-633d-49d1-b8e8-073c6b88d119",
+            "id": "7",
+            "name": "Watch Naruto: Shippuden English Sub/Dub online Free on HiAnime.to",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://hianime.to/watch/naruto-shippuden-355?ep=8093",
+            "visit_count": 1
+         } ],
+         "date_added": "13415017290250057",
+         "date_last_used": "0",
+         "date_modified": "13410083192840013",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13415017290250057",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13415017290250057",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCMfGGc2bAQAAEgAqGDdoM29rNGhmZmlsNjZ2bWhBcEhkNHc9PUgDoAYHEqwBCAYSpwEKHFpaUGRLRXYxUmdkUzJxMkp5NTNGV2VTVllRbz0SJDkyN2Q1ZGU1LTAzMjUtNDkwOS1hNTNhLWVhMTZjNWM4NzAxMRgAIAAoADDBlrbtuzM48/T67IgzQPP0+uyIM0ocTUswWkkrUjBMakxnSVQyelJRTHE2Z1MvaGw4PVoeIhw3S0F4dVRHYjI5eXBjSlljZDRFSVdtYWJVNGs9ZT39II/CPgJgBRKOAQgCEokBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiRlMmFmOWE1OS1kYzEwLTUwZmItODQ0Ni0zNWJmZjQyYzA0MWIYACAAKAAwkqzGnfQyOIqvxp30MkCKr8ad9DJKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAwj4CYAASrQEIBxKoAQocUm1yOFE5a3VLR2FSaG8rb3dINVFrR283NXdvPRIkMDNjNDI4ZTItNjMzZC00OWQxLWI4ZTgtMDczYzZiODhkMTE5GAAgACgAMKPCobSxMzidyKG0sTNAncihtLEzShxXR3hocGkwdlpoYnZtOWFMMGhITkx0bEtkTjA9Wh8iHbpvRUFOYW5Pb2UvYTJpamNqQlRmRWFqNVFua1U9ZcsrDTPCPgJgBRKOAQgBEokBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiQwYTg1YzQ2ZC1kNTdhLTUyMDYtODhmOS1mOTA2NzU1ZmRiMTEYACAAKAAwkazGnfQyOPCuxp30MkDwrsad9DJKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAwj4CYAASjgEIAxKJAQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRIkZDk1NDU5NTYtODc2Ny01NGViLTljMzMtNGY0NTE5MjdkMmE3GAAgACgAMJesxp30Mji2r8ad9DJAtq/GnfQyShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAAMI+AmAAMAA4AA==",
+   "version": 1
+}
